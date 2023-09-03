@@ -6,7 +6,7 @@ const {
   getSingleReview,
   updateReview,
   deleteReview,
-} = require("../controllers/ReviewController");
+} = require("../controllers/reviewController");
 const {
   authenticateUser,
   authorizePermissions,
